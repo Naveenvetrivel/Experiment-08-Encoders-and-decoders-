@@ -72,7 +72,9 @@ Ending module. endmodule is a keywords defined in Verilog.
 ### PROGRAM 
 /*
 Program for Endocers and Decoders  and verify its truth table in quartus using Verilog programming.
+
 Developed by: NAVEENKUMAR V
+
 RegisterNumber:  212221230068
 */
 ### ENCODER:
